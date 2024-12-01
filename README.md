@@ -82,10 +82,7 @@ conda remove -n imagine --all
 ### -training and testing on RLBench tasks
 ### - our YCB dataset and pretrained parameter
 
-```bash
-git clone 
-cd IMAGINATION-POLICY-CORL24
-```
+
 [optional] Download our checkpoints from the [google drive link](https://drive.google.com/drive/folders/1CooOtaOGR5mCJ-LWVJwQDm7ISpuzkHSw?usp=drive_link) and put the `checkpoints` under `IMAGINATION-POLICY-CORL24`.
 
 
